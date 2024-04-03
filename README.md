@@ -8,7 +8,6 @@ The goal of this exercise is as follows:
 * Parse the records and use `SIZE_MAPPINGS` to convert each character to a weight, sum them up per row to get the total weight of the row
 * Group rows sequentially by how many can fit within the `maxSize`
 * First column is the `id` of the row which must be in the output
-* Optional improvement: entire CSV file cannot file within memory ensure the logic can handle such a case
 
 ## Example
 
